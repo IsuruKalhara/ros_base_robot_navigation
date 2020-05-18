@@ -1,4 +1,4 @@
-# ros_gazebo_base_navigation
+# base_robot navigation on Gazebo
 Package containing launch files and configs required for navigation. 
 This launch file will bringup,
  - base_robot in gazebo inside the house model
@@ -10,7 +10,7 @@ This launch file will bringup,
 
 Feel free to use this setup for your diff_drive robot. 
  
-You can control the robot using the keyboard (u,i,o,j,k.l,m,',','.') keys, but you need press the keys on the terminal.
+You can control the robot using the keyboard (u,i,o,j,k.l,m,',','.') keys, but you need to focus on the terminal.
 
 ## Dependencies
 
